@@ -24,7 +24,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer Anda:
 
 1.  **Clone Repository**
     ```bash
-    git clone https://github.com/Start-Z/bihouse-coffe-.git
+    git clone https://github.com/hblhdrm29/Bihouse.git
     cd bihouse-coffe-
     ```
 
